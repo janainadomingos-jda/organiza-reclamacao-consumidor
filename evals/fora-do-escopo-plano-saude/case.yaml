@@ -1,0 +1,5 @@
+schema_version: "1.1"
+name: fora-do-escopo-plano-saude
+expected_outcome: |
+  Informa com gentileza que a skill é voltada a problemas com produtos e não monta reclamação; indica Procon/consumidor.gov.br ou outro canal; não analisa cadeia de fornecedores.
+
